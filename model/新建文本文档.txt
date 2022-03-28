@@ -1,0 +1,3 @@
+T_cat_and_dog.pth：
+      Valid:   Epoch[019/019] Loss: 0.1360 Acc:95.24%
+      batchsize:256
