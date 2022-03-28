@@ -2,7 +2,7 @@
 
 ### The Architecture
 
-![](https://github.com/SHICUO/Paper-Alexnet/blob/main/notes/alexnet_ar.png);
+![](https://github.com/SHICUO/Paper-Alexnet/blob/main/notes/alexnet_ar.png)
 
 <img src=".\notes\alexnet_code.png">
 
