@@ -2,9 +2,9 @@
 
 ### The Architecture
 
-![image-20220327211041286](E:\source code\papercode\学员用资料合集\01Alexnet\A_alexnet_test\alexnet_ar.png)
+![image-20220327211041286](.\notes\alexnet_ar.png)
 
-<img src="E:\source code\papercode\学员用资料合集\01Alexnet\A_alexnet_test\alexnet_code.png">
+<img src=".\notes\alexnet_code.png">
 
 5个卷积层加3个全连接
 
@@ -72,7 +72,7 @@ total_parameter=62,378,344 ，全连接占据的参数超过50%。
 
 #### train（horizontal reflections水平翻转）
 
-![image-20220327222104970](E:\source code\papercode\学员用资料合集\01Alexnet\A_alexnet_test\data_.png)
+![image-20220327222104970](.\notes\data_.png)
 
 1. 图片按比例把最短变缩放为256\*256
 
