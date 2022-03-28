@@ -72,7 +72,7 @@ total_parameter=62,378,344 ，全连接占据的参数超过50%。
 
 #### train（horizontal reflections水平翻转）
 
-![image-20220327222104970](.\notes\data_.png)
+![image-20220327222104970](https://github.com/SHICUO/Paper-Alexnet/blob/main/notes/data_.png)
 
 1. 图片按比例把最短变缩放为256\*256
 
