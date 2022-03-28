@@ -4,7 +4,7 @@
 
 ![](https://github.com/SHICUO/Paper-Alexnet/blob/main/notes/alexnet_ar.png)
 
-<img src=".\notes\alexnet_code.png">
+<img src="https://github.com/SHICUO/Paper-Alexnet/blob/main/notes/alexnet_code.png">
 
 5个卷积层加3个全连接
 
